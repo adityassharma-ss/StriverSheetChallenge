@@ -5,7 +5,6 @@ public class PascalsTriangle {
         int numRows = 5;
         System.out.println(generate(numRows));
     }
-
     private static List<List<Integer>> generate(int numRows){
         List<List<Integer>> result = new ArrayList<List<Integer>>();
         if(numRows == 0) return result;

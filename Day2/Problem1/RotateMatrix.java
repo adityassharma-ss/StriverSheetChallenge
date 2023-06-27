@@ -1,4 +1,4 @@
-package Day2.Problem1;
+
 import java.util.*;
 
 public class RotateMatrix {
